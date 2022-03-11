@@ -29,7 +29,7 @@
 <br/>
 
 <a href="https://github.com/pouya-shekari">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pouya-shekari" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pouya-shekari&theme=dracula" />
 </a>
 
 <br/>
