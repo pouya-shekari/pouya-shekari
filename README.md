@@ -37,6 +37,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
+  <a href=""><img alt="Phone" src="https://img.shields.io/badge/Phone-09226308542-green"></a>
  <a href="mailto:pshekari37@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-pshekari37%40gmail.com-red?style=flat&logo=Gmail"></a>
 <a href="https://www.linkedin.com/in/pouya-shekari-2b0b5b188/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-pouya%20shekari-blue?style=flat&logo=LinkedIn"></a>
+  
 </p>
