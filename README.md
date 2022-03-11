@@ -13,6 +13,7 @@
 - 🌐 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=Redux&logoColor=764ABC)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=26A69A)
   ![MUI](https://img.shields.io/badge/-MUI-333333?style=flat&logo=Mui&logoColor=1572B6)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
