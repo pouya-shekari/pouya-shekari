@@ -28,6 +28,10 @@
 
 <br/>
 
+<a href="https://github.com/pouya-shekari">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pouya-shekari" />
+</a>
+
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
