@@ -38,9 +38,6 @@
 
 <br>
 
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=pouya-shekari&custom_title=Pouya%20Shekari%20Trips's%20Contribution%20Graph&hide_border=true&line=d1a01f&point=c58545)](https://github.com/MohammadAminAlaei)
-
-
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
