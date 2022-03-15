@@ -31,9 +31,15 @@
 
 <br/>
 
-<a href="https://github.com/pouya-shekari">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pouya-shekari" />
-</a>
+<div align="center">
+  <img alt="GitHub Stats" align="top" width="65%" height="240px" src="https://github-readme-stats.vercel.app/api?username=pouya-shekari" />
+  <img alt="Top Language" align="center" width="32%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pouya-shekari&langs_count=4" />
+</div>
+
+<br>
+
+[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=pouya-shekari&custom_title=Pouya%20Shekari%20Trips's%20Contribution%20Graph&hide_border=true&line=d1a01f&point=c58545)](https://github.com/MohammadAminAlaei)
+
 
 <br/>
 
