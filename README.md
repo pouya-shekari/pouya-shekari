@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; A junior front-end developer eager to learn and work in a team.
+- 🤔 &nbsp; A front-end developer eager to learn and work in a team.
 - 🎓 &nbsp; Graduated in Computer Engineering from Razi University of Kermanshah.
 - ✍️ &nbsp; Pursuing Graphic Design as hobbies.
 
@@ -43,6 +43,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
+  <a href="https://pouya-shekari.ir"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fpouya-shekari.ir?style=plastic&logo=appveyor"></a>
   <a href="tel:+989226308542"><img alt="Phone" src="https://img.shields.io/badge/Phone-+989226308542-green"></a>
  <a href="mailto:pshekari37@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-pshekari37%40gmail.com-red?style=flat&logo=Gmail"></a>
 <a href="https://www.linkedin.com/in/pouya-shekari-2b0b5b188/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-pouya%20shekari-blue?style=flat&logo=LinkedIn"></a>
